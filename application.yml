@@ -1,7 +1,3 @@
-spring:
-  application:
-      name: Simple-File
-
 eureka:
   instance:
     prefer-ip-address: true
